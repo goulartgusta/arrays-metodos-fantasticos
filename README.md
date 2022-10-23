@@ -13,3 +13,9 @@ No meio de sua jornada, Torper consumiu uma das poções da mentira, perdeu sua 
 Descreva cada uma das ações acima. utilizando código (utilize comentários para ficar mais claro). 
 No meio da sua jornada, Drofo, ganhou mais uma bota mágica, usou sua poção do sono e consumiu a poção anti-inteligência do Torper, encontrou um ovo de dragão e uma coxinha.
 Descreva cada uma das ações acima. utilizando código.
+Exiba o resultado final de cada um dos inventários utilizando "document.write". 
+
+<br>
+
+## ✨ Tecnologias Usadas:
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
